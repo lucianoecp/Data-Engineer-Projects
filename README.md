@@ -1,9 +1,12 @@
-#### Projetos de Engenharia de Dados
+### Projetos de Engenharia de Dados
 
-Nível Básico
 
-| Projeto | Endereço |
-| ------- | -------- |
-|         |          |
-|         |          |
-|         |          |
+
+#### Nível Básico
+
+| Projeto | Descrição | Endereço |
+| ------- | --------- | -------- |
+|         |           |          |
+|         |           |          |
+|         |           |          |
+
